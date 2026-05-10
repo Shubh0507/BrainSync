@@ -2,3 +2,5 @@ gnn_env/
 venv/
 __pycache__/
 *.pyc
+
+phase1_gnnImplementation/local_gnn_env
