@@ -2,5 +2,9 @@ gnn_env/
 venv/
 __pycache__/
 *.pyc
-
+playground.ipynb
 dasps_data/
+
+1 - GNN Layers/
+2 - BrainSync Model/
+3 - DASPS Execution/
